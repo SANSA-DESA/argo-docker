@@ -20,5 +20,5 @@ jobs:
       uses: elgohr/Publish-Docker-Github-Action@v5
       with:
         name: seffatchowdhury/argo-jupyrerhub
-        username: schowdhury@sansa.org.za
+        username: seffatchowdhury
         password: SansaDESA987@
