@@ -22,3 +22,4 @@ jobs:
         name: seffatchowdhury/argo-jupyrerhub
         username: seffatchowdhury
         password: SansaDESA987@
+        tags: "latest"
